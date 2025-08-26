@@ -1,4 +1,8 @@
 # Smart_India_Hackathon_Team-Coding_Wizards
+<p align="center">
+  <img src="https://yt3.ggpht.com/a/AGF-l7-lMMFxQrGg7DIcGPmGvrwkZKlnjVpsqCtxgA=s900-c-k-c0xffffffff-no-rj-mo" width="150" height="150" />
+</p>
+
 This repository hosts the complete work of our team for SIH 2025, including:  📂 Source code (frontend, backend, ML models, automation)  📖 Documentation (design, architecture, setup guides)  🧪 Tests &amp; workflows for CI/CD  🎥 Assets (presentation, demo video, posters)  ⚡️ Scripts &amp; setup files for quick deployment
 ## 👥 Team Members
 
@@ -9,9 +13,14 @@ This repository hosts the complete work of our team for SIH 2025, including:  �
 - 👨‍💻 **Aditya Kapruwan** – Developer  
 ## 🚀 Hackathon Details  
 
-<p align="center">
-  <img src="https://www.sih.gov.in/img/logo.png" alt="Smart India Hackathon 2025" width="200"/>
-</p>
+## ​ Smart India Hackathon 2025
+
+| Link | Description |
+|------|-------------|
+| [SIH Official Site](https://www.sih.gov.in) | Event homepage |
+| [Problem Statements](https://www.sih.gov.in/sih2025PS) | View all PS |
+| [Schedule](https://www.sih.gov.in/sih2025Schedule) | Submission timelines |
+
 
 ### 🏆 Smart India Hackathon 2025  
 India’s largest open innovation hackathon organized by **MoE’s Innovation Cell & AICTE**.  
